@@ -110,17 +110,12 @@ h2{
    
    
 }
-p.para1{
+p{
     text-align: center;
     margin-left: 40px;
     /* font-weight: bold; */
     color: rgb(66, 63, 63);
     padding-top: 5px;
-}
-@media(max-width:390px){
-    p.para1{
-        font-size: 9px;
-    }
 }
 button.btn2{
         padding: 7px 40px;
@@ -170,7 +165,7 @@ img.wedding{
 @media(max-width:390px){
     img.wedding{
         height: 300px;
-        width: 350px;
+        /* width: 300px; */
         margin-left: 50px;
         overflow: hidden;
     }
@@ -578,7 +573,7 @@ img.star{
         margin-left: 290px;
     }
     img.first{
-        margin-left: 120px;
+        margin-left: 115px;
     }
     img.second{
         margin-left: 115px;
@@ -586,10 +581,10 @@ img.star{
 }
 @media(max-width:390px){
     img.first{
-        margin-left: 119px;
+        margin-left: 110px;
     }
     img.second{
-        margin-left: 118px;
+        margin-left: 110px;
     }
     img.last{
         margin-left: 110px;
@@ -647,11 +642,6 @@ h3.create{
     font-weight: bold;
     font-size: 35px;
     margin-left: 100px;
-}
-@media(max-width:390px){
-    h3.create{
-        font-size: 32px;
-    }
 }
 span.free{
      font-weight: bold;
@@ -762,10 +752,9 @@ img.couple{
 h2.makeit{
     font-weight: bold;
 }
-@media(max-width:390px){
+@media(max-width:468px){
     h2.makeit{
         margin-left: 0px;
-        font-size: 19px;
     }
 }
 .circle{
@@ -926,7 +915,7 @@ p.lorem{
     font-size: 13px;
     margin-top: 15px;
 }
-@media(max-width:390px){
+@media(max-width:468px){
     p.lorem{
         font-size: 9px;
         margin-left: 0px;
