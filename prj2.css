@@ -162,7 +162,7 @@ img.wedding{
 @media(max-width:390px){
     img.wedding{
         height: 300px;
-        width: 290px;
+        width: 300px;
         margin-left: 50px;
     }
 }
@@ -295,6 +295,12 @@ h1.brands{
 @media(max-width:768px){
     h1.brands{
         font-size: 30px;
+    }
+    
+}
+@media(max-width:390px){
+    h1.brands{
+        font-size: 25px;
     }
     
 }
@@ -475,9 +481,9 @@ button.btn3{
         margin-left: 170px;
     }
  }
-  @media(max-width:468px){
+  @media(max-width:390px){
     h1.rated{
-        margin-left: 60px;
+        margin-left: 30px;
     }
  }
  span.over{
@@ -569,15 +575,15 @@ img.star{
         margin-left: 115px;
     }
 }
-@media(max-width:468px){
+@media(max-width:390px){
     img.first{
-        margin-left: 170px;
+        margin-left: 130px;
     }
     img.second{
-        margin-left: 170px;
+        margin-left: 130px;
     }
     img.last{
-        margin-left: 170px;
+        margin-left: 130px;
     }
  
 }
@@ -617,6 +623,7 @@ p.caro{
 @media(max-width:390px){
      .text{
         margin-left: -40px;
+        margin-bottom: 20px;
     }
 }
 
@@ -670,7 +677,7 @@ img.couple{
 }
 @media(max-width:390px){
     img.couple{
-        margin-left:-100px;
+        margin-left:-150px;
         margin-right: 50px;
     }
 }
@@ -900,7 +907,7 @@ p.lorem{
     font-size: 13px;
     margin-top: 15px;
 }
-@media(max-width:468px){
+@media(max-width:390px){
     p.lorem{
         font-size: 10px;
         margin-left: 0px;
@@ -917,5 +924,3 @@ p.lorem{
  
  
  
-
-
