@@ -119,7 +119,7 @@ p{
 }
 @media(max-width:390px){
     .All{
-        font-size: 10px;
+        font-size: 6px;
     }
 }
 button.btn2{
@@ -650,7 +650,7 @@ h3.create{
 }
 @media(max-width:390px){
     h3.create{
-        font-size: 30px;
+        font-size: 26px;
     }
 }
 span.free{
@@ -720,7 +720,7 @@ img.couple{
    }
     
 }
-@media(max-width:468px){
+@media(max-width:390px){
     img.couple{
         height: 350px;
         width: 350px;
@@ -733,14 +733,21 @@ img.couple{
     font-size: 30px;
     margin-left: 80px;
    }
-   p.choose{
-    margin-left: 80px;
-   }
+   
    button.get{
     margin-left: 80px;
    }
 
 }
+@media(max-width:390px){
+    p.choose{
+    margin-left: 80px;
+    font-size: 9px;
+   }
+   
+
+}
+
 .inbox8{
     min-height: 280px;
     /* background-color: rgb(171, 98, 98); */
