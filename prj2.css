@@ -119,7 +119,7 @@ p{
 }
 @media(max-width:390px){
     .All{
-        font-size: 10px;
+        font-size: 7px;
     }
 }
 button.btn2{
@@ -586,7 +586,7 @@ img.star{
 }
 @media(max-width:390px){
     img.first{
-        margin-left: 120px;
+        margin-left: 112px;
     }
     img.second{
         margin-left: 115px;
@@ -961,6 +961,7 @@ p.lorem{
  
  
  
+
 
 
 
