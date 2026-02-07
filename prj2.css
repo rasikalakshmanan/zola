@@ -162,7 +162,7 @@ img.wedding{
 @media(max-width:390px){
     img.wedding{
         height: 300px;
-        width: 300px;
+        width: 310px;
         margin-left: 50px;
     }
 }
@@ -577,13 +577,13 @@ img.star{
 }
 @media(max-width:390px){
     img.first{
-        margin-left: 110px;
+        margin-left: 100px;
     }
     img.second{
-        margin-left: 110px;
+        margin-left: 100px;
     }
     img.last{
-        margin-left: 11 0px;
+        margin-left: 110px;
     }
  
 }
@@ -924,3 +924,4 @@ p.lorem{
  
  
  
+
