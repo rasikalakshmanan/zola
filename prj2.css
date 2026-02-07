@@ -577,13 +577,13 @@ img.star{
 }
 @media(max-width:390px){
     img.first{
-        margin-left: 100px;
+        margin-left: 110px;
     }
     img.second{
-        margin-left: 100px;
+        margin-left: 110px;
     }
     img.last{
-        margin-left: 100px;
+        margin-left: 120px;
     }
  
 }
@@ -678,6 +678,7 @@ img.couple{
 @media(max-width:390px){
     img.couple{
         margin-left:-200px;
+        width:300px;
         /* margin-right: 50px; */
     }
 }
@@ -747,7 +748,7 @@ h2.makeit{
 @media(max-width:390px){
     h2.makeit{
         margin-left: 0px;
-        font-size:15px;
+        font-size:19px;
     }
 }
 .circle{
@@ -925,6 +926,7 @@ p.lorem{
  
  
  
+
 
 
 
