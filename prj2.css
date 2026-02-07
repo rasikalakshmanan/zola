@@ -119,7 +119,7 @@ p{
 }
 @media(max-width:390px){
     .All{
-        font-size: 7px;
+        font-size: 17px;
     }
 }
 button.btn2{
@@ -632,7 +632,7 @@ p.caro{
 @media(max-width:390px){
      .text{
         margin-left: -40px;
-        margin-bottom: 30px;
+        /* margin-bottom: 30px; */
     }
 }
 
@@ -961,6 +961,7 @@ p.lorem{
  
  
  
+
 
 
 
