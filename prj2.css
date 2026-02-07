@@ -95,6 +95,7 @@ span{
 @media(max-width:390px){
     .inbox3{
         margin-left: -50px;
+        overflow: hidden;
     }
     p{
         font-size: 15px;
@@ -162,7 +163,7 @@ img.wedding{
 @media(max-width:390px){
     img.wedding{
         height: 300px;
-        width: 310px;
+        width: 300px;
         margin-left: 50px;
     }
 }
@@ -583,7 +584,7 @@ img.star{
         margin-left: 110px;
     }
     img.last{
-        margin-left: 120px;
+        margin-left: 110px;
     }
  
 }
@@ -630,6 +631,7 @@ p.caro{
 @media(max-width:390px){
     div.image{
         margin-left: -35px;
+        overflow: hidden;
     }
 }
 h3.create{
@@ -703,7 +705,7 @@ img.couple{
    }
     
 }
-@media(max-width:390px){
+@media(max-width:468px){
     img.couple{
         height: 350px;
         width: 350px;
@@ -711,7 +713,7 @@ img.couple{
         margin-top: 50px;
     }
     h3.create{
-     padding-top: 80px;
+     padding-top: 100px;
     font-weight: bold;
     font-size: 30px;
     margin-left: 80px;
@@ -745,10 +747,9 @@ img.couple{
 h2.makeit{
     font-weight: bold;
 }
-@media(max-width:390px){
+@media(max-width:468px){
     h2.makeit{
         margin-left: 0px;
-        font-size:19px;
     }
 }
 .circle{
@@ -926,7 +927,3 @@ p.lorem{
  
  
  
-
-
-
-
