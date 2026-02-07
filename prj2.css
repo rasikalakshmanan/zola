@@ -162,7 +162,7 @@ img.wedding{
 @media(max-width:390px){
     img.wedding{
         height: 300px;
-        width: 300px;
+        width: 290px;
         margin-left: 50px;
     }
 }
@@ -917,4 +917,5 @@ p.lorem{
  
  
  
+
 
