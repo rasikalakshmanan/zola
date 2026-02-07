@@ -702,7 +702,7 @@ img.couple{
    }
     
 }
-@media(max-width:468px){
+@media(max-width:390px){
     img.couple{
         height: 350px;
         width: 350px;
@@ -710,7 +710,7 @@ img.couple{
         margin-top: 50px;
     }
     h3.create{
-     padding-top: 100px;
+     padding-top: 80px;
     font-weight: bold;
     font-size: 30px;
     margin-left: 80px;
@@ -744,9 +744,10 @@ img.couple{
 h2.makeit{
     font-weight: bold;
 }
-@media(max-width:468px){
+@media(max-width:390px){
     h2.makeit{
         margin-left: 0px;
+        font-size:15px;
     }
 }
 .circle{
@@ -924,5 +925,6 @@ p.lorem{
  
  
  
+
 
 
