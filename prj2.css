@@ -650,7 +650,12 @@ h3.create{
 }
 @media(max-width:390px){
     h3.create{
-        font-size: 26px;
+        /* font-size: 26px; */
+    }
+}
+@media(max-width:390px){
+    .Too{
+        font-size: 25px;
     }
 }
 span.free{
@@ -950,3 +955,4 @@ p.lorem{
  
  
  
+
