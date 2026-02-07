@@ -483,7 +483,7 @@ button.btn3{
  }
   @media(max-width:390px){
     h1.rated{
-        margin-left: 30px;
+        margin-left: 20px;
     }
  }
  span.over{
@@ -577,13 +577,13 @@ img.star{
 }
 @media(max-width:390px){
     img.first{
-        margin-left: 130px;
+        margin-left: 110px;
     }
     img.second{
-        margin-left: 130px;
+        margin-left: 110px;
     }
     img.last{
-        margin-left: 130px;
+        margin-left: 11 0px;
     }
  
 }
@@ -623,7 +623,7 @@ p.caro{
 @media(max-width:390px){
      .text{
         margin-left: -40px;
-        margin-bottom: 20px;
+        margin-bottom: 30px;
     }
 }
 
@@ -677,8 +677,8 @@ img.couple{
 }
 @media(max-width:390px){
     img.couple{
-        margin-left:-150px;
-        margin-right: 50px;
+        margin-left:-200px;
+        /* margin-right: 50px; */
     }
 }
 @media(max-width:768px){
@@ -907,7 +907,7 @@ p.lorem{
     font-size: 13px;
     margin-top: 15px;
 }
-@media(max-width:390px){
+@media(max-width:468px){
     p.lorem{
         font-size: 10px;
         margin-left: 0px;
