@@ -149,10 +149,38 @@ img.wedding{
     border-color: black;
     margin-bottom: 40px;
 }
+.inbox4-1{
+    /* background-color: rgb(148, 148, 189); */
+    min-height: 300px;
+    margin-top: 40px;
+    border-style: solid;
+    border-color: black;
+    margin-bottom: 40px;
+}
+.inbox4-4{
+    /* background-color: rgb(148, 148, 189); */
+    min-height: 300px;
+    margin-top: 40px;
+    border-style: solid;
+    border-color: black;
+    margin-bottom: 40px;
+}
 @media(max-width:390px){
     .inbox4{
-        margin-bottom: 30px;
+        margin-bottom: 10px;
+        margin-top: 20px;
+    }
+}
+@media(max-width:390px){
+    .inbox4-1{
+        margin-bottom: 10px;
         margin-top: 30px;
+    }
+}
+@media(max-width:390px){
+    .inbox4-4{
+        margin-bottom: 30px;
+        margin-top: 20px;
     }
 }
 .cir{
@@ -711,10 +739,10 @@ p.caro{
 
 @media(max-width:390px){
    .inbox72{
-    min-height: 300px;
+    min-height: 200px;
     margin-top: 0px;
     justify-content:flex-start;
-    margin-bottom: 50px;
+    margin-bottom: 30px;
     margin-left: -20px;
 
     
@@ -863,7 +891,7 @@ img.couple{
         margin-top: 50px;
     }
     h3.create{
-     padding-top: 50px;
+     padding-top: 10px;
     font-weight: bold;
     font-size: 30px;
     margin-left: 80px;
